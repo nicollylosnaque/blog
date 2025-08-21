@@ -121,7 +121,7 @@ main{
     background-color: #f5f5f5;
    
 }
-article{
+.noticia{
 
     background-color: #d6d5d5;
     padding: 24px;
@@ -138,7 +138,7 @@ article{
 
 }
 
-article h2{
+article h2{ 
     color: #0a111e;
     font-size: 2em;
     margin: 0;
